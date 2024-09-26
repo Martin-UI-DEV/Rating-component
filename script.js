@@ -40,7 +40,3 @@ submitBtn.addEventListener('click', () => {
 
 
 
-
-
-console.log();
-
